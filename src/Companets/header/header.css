@@ -1,0 +1,82 @@
+
+.list{
+ width: 100%;
+ max-width: 268px;
+ margin: 0;
+ padding: 0;
+ list-style: none;
+}
+.item {
+ margin-left: 20px;
+ padding-bottom: 30px;
+ 
+}
+
+.twitter{
+ margin-top: 30px;
+ margin-left: 20px;
+ margin-bottom: 49px;
+}
+.nav_link{
+ font-size: 18px;
+ font-weight: 500;
+ line-height: 24px;
+ color: rgb(70, 60, 60);;
+ text-decoration: none;
+}
+span{
+margin-left: 20px; 
+}
+.active{
+font-weight: bold;
+ color: rgb(5, 5, 5);
+}
+.twitter__btn{
+ border: none;
+ padding: 15px 90px; 
+ font-style: normal;
+ font-weight: bold;
+ font-size: 18px;
+ line-height: 24px;
+ border-radius: 27.5px;
+ background-color: #1D9BF0;
+ color: white;
+ margin-bottom: 260px;
+}
+
+
+.box{
+ width: 260px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.bk-color{
+ width: 60px;
+ height: 60px;
+ background-image: url("../../Assets/img/Bobur.svg");
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+
+
+}
+.btn__icon{
+ background-color: white;
+ border: none;
+}
+.bobur{
+margin: 0;
+}
+.text__bobur{
+ color: dimgray;
+}
+
+.stoyka{
+ position: absolute;
+ z-index: 1;
+ height: 989px;
+ border: 1px solid #D8D8D8;
+ margin-left: 300px;
+ background-color: #D8D8D8;
+}

@@ -1,0 +1,163 @@
+.main{
+ width: 100%;
+ max-width: 600px;
+ margin: 0 auto;
+}
+.home{
+ width: 100%;
+ max-width: 870px;
+ display: flex;
+ justify-content: space-between;
+ margin-bottom: 20px;
+ 
+}
+.heading__home{
+ margin: 0;
+ font-size: 24px;
+ margin-left: 20px;
+}
+.happing{
+ width: 600px;
+ border:  1px solid #D8D8D8;
+ border-right: none;
+ border-left: none;
+}
+.bg-img{
+ margin-left: 20px;
+}
+.bag__hepping{
+ display: flex;
+ align-items: center;
+}
+.hepping__heading{
+ padding-left: 15px;
+ font-family: Segoe UI;
+ font-style: normal;
+ font-weight: 600;
+ font-size: 22px;
+ line-height: 29px;
+ color: #828282;
+}
+
+
+.happing__lest {
+ list-style: none;
+ padding: 0;
+ display: flex;
+ margin: 0;
+}
+.happing__item{
+ margin-left: 20px;
+}
+.happing__item:nth-child(1){
+ padding-left: 75px;
+}
+.happing__btn-icon{
+ border: none;
+ background-color: white;
+ padding: 0;
+ margin: 0;
+}
+.happing__btn-icon:hover{
+ cursor: pointer;
+}
+.happing__btn-icon :active{
+ box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+.tweet{
+ padding: 18px 40px;
+ opacity: 0.5;
+ margin-bottom: 10px;
+ margin-top: 50px;
+}
+.hepping__nav{
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+
+
+/* comment/  */
+
+
+.comment{
+ width: 600px;
+}
+.comment__lest{
+ list-style: none;
+ padding: 0;
+}
+.comment__heading{
+ margin: 0;
+ margin-bottom: 5px;
+ display: inline-block;
+}
+.comment__link{
+ margin: 0%;
+ margin-left: 5px;
+}
+.comment__item{
+ width: 530px;
+ margin-left: 20px;
+ display: flex;
+ justify-content: space-between;
+}
+.comment__text{
+ margin: 0%;
+ margin-bottom: 23px;
+}
+.comment__img{
+ width: 60px;
+ height: 60px;
+ border-radius: 50%;
+}
+.comment__heading{
+ font-style: normal;
+ font-weight: bold;
+ font-size: 20px;
+ line-height: 27px;
+}
+.comment__link{
+ font-style: normal;
+ font-weight: normal;
+ font-size: 18px;
+ line-height: 24px;
+ color: #000000;
+ opacity: 0.6;
+}
+.comment__text{
+ width: 400px;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 16px;
+ line-height: 24px;
+}
+
+.comment__shashlik{
+  border-radius: 10px;
+  margin-bottom: 22px;
+}
+
+.comment__bag{
+ padding-left: 10px;
+}
+.comment__bag__lest{
+ display: flex;
+ justify-content: space-between;
+ list-style: none;
+ padding: 0%;
+ margin-bottom: 21px;
+}
+
+.comment__bag__btn{
+ border: none;
+ background-color: white;
+}
+
+.login-stoyka{
+ left: 660px;
+}
+.loading__img{
+ margin:0 auto;
+ display: flex;
+}
